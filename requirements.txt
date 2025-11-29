@@ -1,2 +1,4 @@
 google-play-scraper
 pandas
+nltk 
+scikit-learn
